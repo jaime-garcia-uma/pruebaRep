@@ -17,7 +17,7 @@ import java.text.SimpleDateFormat;
  */
 public class Date {
 
-  private int fieldAddedByCollaborator; 
+  private int fieldAddedByCollaborator;
   private final int day;
   private final int month;
   private final int year;
